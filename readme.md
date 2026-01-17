@@ -6,6 +6,8 @@
 * Project: JSER
 * Brief: JSON serialization/deserialization in an embedded device
 
+**This library is a work in progress and is liable to contain errors.**
+
 This module/library can be used to deserialize/serialize a list of objects
 from/into [JSON][]. The idea is that the user passes in a specification which
 contains the attribute name, a type and a pointer of the data type to be serialized
